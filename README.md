@@ -44,7 +44,7 @@ GET /jina/{endpoint-path}
 
 **Response:** Returns the converted HTML content from the markdown provided by Jina API.
 
-### 3. `/extract-pdf`
+### 3. `/extract-pdf?url=`
 
 This endpoint extracts text content from a specified PDF file, using an external PDF-to-text service.
 
